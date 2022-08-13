@@ -18,4 +18,8 @@ This repo contains practice jupyter notebooks for Leetcode problems
     <td>03. Longest Substring Without Repeating Characters</td>
     <td>https://github.com/AayushSaxena08/Leetcode_Practice/blob/main/03.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb</td>
   </tr>
+  <tr>
+    <td>04. Median of Two Sorted Arrays</td>
+    <td>https://github.com/AayushSaxena08/Leetcode_Practice/blob/main/04.%20Median%20of%20Two%20Sorted%20Arrays.ipynb</td>
+  </tr>
 </table>
