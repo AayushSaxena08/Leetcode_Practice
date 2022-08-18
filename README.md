@@ -22,4 +22,16 @@ This repo contains practice jupyter notebooks for Leetcode problems
     <td>04. Median of Two Sorted Arrays</td>
     <td>https://github.com/AayushSaxena08/Leetcode_Practice/blob/main/04.%20Median%20of%20Two%20Sorted%20Arrays.ipynb</td>
   </tr>
+  <tr>
+    <td>05. Longest Palindromic Substring</td>
+    <td>https://github.com/AayushSaxena08/Leetcode_Practice/blob/main/05.%20Longest%20Palindromic%20Substring.ipynb</td>
+  </tr>
+  <tr>
+    <td>07. Reverse Integer</td>
+    <td>https://github.com/AayushSaxena08/Leetcode_Practice/blob/main/07.%20Reverse%20Integer.ipynb</td>
+  </tr>
+  <tr>
+    <td>09. Palindrome Number</td>
+    <td>https://github.com/AayushSaxena08/Leetcode_Practice/blob/main/09.%20Palindrome%20Number.ipynb</td>
+  </tr>
 </table>
